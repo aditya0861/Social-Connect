@@ -1,4 +1,4 @@
-# Social Connect App
+# Social Connect web app
 
 A fully functional social media web application built with React and Vite.
 
